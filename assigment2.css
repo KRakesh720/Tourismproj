@@ -1,0 +1,163 @@
+.c1{
+    display:flex;
+    width:100%;
+    height: 90px;
+    border: 2px solid black;
+    background-color: rgb(96, 177, 91);
+    position:fixed;
+    z-index: 2;
+    top: 0;  
+}
+.c1 img {
+    width: 80px;
+    height: 88px;
+}
+.c3{
+   border: 2PX solid BLACK;
+   padding: 10px;
+   margin: 0 40px;
+   text-decoration: none;
+   color: black;
+   
+}
+.c2{
+    margin-left: 25%;
+    margin-top: 35px;
+}
+.marquee{
+    margin-top: 30px;
+    color: rgb(119, 39, 211);
+    font-size: x-large;
+}
+.c4{display: flex;
+    justify-content: space-between;
+      
+}
+.c4 p {
+    text-align: justify;
+margin-right: 10px;
+}
+.c5{
+    display: flex;
+    text-align: justify;
+    margin-top: 10px;
+}
+.c5 img {
+    margin-right: 10px;
+    margin-top: 30px;
+}
+.c6{
+    display: flex;
+    text-align: justify;    
+}
+.c6 p {
+    margin-right: 10px;
+}
+img{box-shadow: 3px 3px 2px rgb(142, 76, 76);
+}
+.c7{
+    display:flex;
+    position:sticky;
+    bottom: 0;
+    border: 2px dotted red;
+    background-color: rgb(115, 115, 166);
+    position: sticky;
+    width:fit-content;
+}
+.c7 input{
+    padding-right: 199px;
+    align-items: center;
+    margin-left: 10px;
+    margin: 2px 0;
+}
+.c7 form{
+    width: 500px;
+}
+.c7 iframe{margin-right: 20px;
+border: 2PX solid black;}
+.c7 p {margin-top: 50px;}
+.c8{
+    position:fixed;
+    top: 30%;
+    right: 0;
+} 
+.c10 button{
+    padding: 15px;
+    margin: 10px 1%;
+    color: blueviolet;
+}
+.c10 button:hover{
+    box-shadow: 3px 3px 10px black;
+}
+.c11{
+  background-color: rgb(12, 18, 18);
+  border: 1px solid black;
+  width: fit-content;
+  margin: 20px 0px;
+}
+.c12{
+    background-color:white;
+    border: 0px solid black;
+    width: fit-content;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+.c12 input{
+    padding: 3px 20px;
+    margin: 5px 0;
+}
+.c11 h2{
+    text-align: center;
+    color: aquamarine;
+}
+.z2{
+    border: 2px solid black;
+    width: 25%;
+    padding: 2px;
+    margin: 2px;
+    background-color: blanchedalmond;
+}
+.z2 span{
+    color: blueviolet;
+}
+.z1{display: flex ;
+
+   
+}
+.z2:hover{
+    box-shadow: 1px 1px 5px red;
+    
+}
+.audio{
+    border: 2px solid black;
+    width: 450PX;
+}
+.container{
+    display: flex;
+    background-color: blanchedalmond;
+}
+.audio:hover{
+    box-shadow: 2px 2px 2px black;
+}
+.audio {
+    padding: 4px;
+    margin: 2px;
+
+}
+.video{
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    width: 360px;
+    margin: 5px;
+}
+.videomain{
+    display:flex ;
+}
+.video:hover{
+    box-shadow: 2px 2px 2px black;
+}
+.c7 button{
+    margin-left: 90px;
+}
